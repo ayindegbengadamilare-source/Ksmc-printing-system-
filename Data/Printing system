@@ -1,0 +1,79 @@
+KSMC-Printing-System/
+│
+├── index.html                 # Home page
+├── about.html                 # About KSMC
+├── services.html              # Services
+├── pricing.html               # Price list
+├── quotation.html             # Online quotation
+├── contact.html               # Contact page
+├── gallery.html               # Product gallery
+├── faq.html                   # Frequently asked questions
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   ├── quotation.css
+│   ├── dashboard.css
+│   ├── pricing.css
+│   └── print.css
+│
+├── js/
+│   ├── app.js
+│   ├── navigation.js
+│   ├── quotation.js
+│   ├── calculator.js
+│   ├── products.js
+│   ├── search.js
+│   ├── print.js
+│   ├── invoice.js
+│   ├── customer.js
+│   └── dashboard.js
+│
+├── data/
+│   ├── products.json
+│   ├── services.json
+│   ├── prices.json
+│   └── settings.json
+│
+├── images/
+│   ├── ksmc-logo.png
+│   ├── hero-banner.jpg
+│   ├── business-cards.jpg
+│   ├── flyers.jpg
+│   ├── banners.jpg
+│   ├── folders.jpg
+│   └── gallery/
+│
+├── icons/
+│
+├── documents/
+│   ├── quotations/
+│   ├── invoices/
+│   ├── receipts/
+│   └── jobcards/
+│
+├── customer/
+│   ├── login.html
+│   ├── register.html
+│   ├── dashboard.html
+│   ├── upload.html
+│   └── orders.html
+│
+├── admin/
+│   ├── login.html
+│   ├── dashboard.html
+│   ├── products.html
+│   ├── customers.html
+│   ├── quotations.html
+│   ├── reports.html
+│   └── settings.html
+│
+├── assets/
+│   ├── fonts/
+│   └── downloads/
+│
+├── netlify.toml
+├── robots.txt
+├── sitemap.xml
+├── README.md
+└── LICENSE
