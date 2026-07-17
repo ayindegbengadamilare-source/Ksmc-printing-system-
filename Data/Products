@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "service": "Business Cards",
+    "paper": "300gsm Art Card",
+    "unitCost": 180
+  },
+  {
+    "id": 2,
+    "service": "A5 Flyers",
+    "paper": "150gsm Art Paper",
+    "unitCost": 120
+  },
+  {
+    "id": 3,
+    "service": "A4 Flyers",
+    "paper": "150gsm Art Paper",
+    "unitCost": 180
+  },
+  {
+    "id": 4,
+    "service": "Presentation Folder",
+    "paper": "300gsm FBB Card",
+    "unitCost": 650
+  },
+  {
+    "id": 5,
+    "service": "Letterhead",
+    "paper": "100gsm Bond",
+    "unitCost": 95
+  },
+  {
+    "id": 6,
+    "service": "Banner",
+    "paper": "Flex Banner",
+    "unitCost": 4500
+  }
+]
